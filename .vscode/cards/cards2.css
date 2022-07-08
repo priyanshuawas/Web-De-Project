@@ -89,12 +89,12 @@ body {
     padding-left: 15px;
 }
 
-@media screen and (max-width:1124px){
+@media screen and (max-width:100px){
     .index-post{
         width: 562px; height: 728px;
     }
 }
-@media screen and (max-width:562px){
+@media screen and (max-width:100px){
     .index-post{
         width: 281px; height: 1496px;
     }
